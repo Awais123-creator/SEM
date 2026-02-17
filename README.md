@@ -10,5 +10,5 @@ This project builds a predictive model to forecast unit sales for thousands of i
 - **Python (Pandas, NumPy)** for data manipulation.
 - **Scikit-Learn / XGBoost** for forecasting.
 - **Matplotlib/Seaborn** for trend visualization.
-- ## 📉 Results
+- ## Results
 I identified a high correlation between **Promotions** and **Sales volume**, and successfully accounted for the sales dip during specific holiday periods.
